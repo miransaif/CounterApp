@@ -2,7 +2,7 @@ import React,{useState} from "react";
 import "./File.css"
 
 const App = () => {
-  const [counter , setCounter] = useState(0)
+  const [counter , setCounter] = useState(1)
   return (
     <div>
       <h1>
